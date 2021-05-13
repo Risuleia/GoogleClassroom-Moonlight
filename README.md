@@ -14,6 +14,6 @@ Bored of the old, monotonous crap look of Google Classroom. Spice up your life o
 ## Preview
 Note: Some parts of the images have been blurred to respect privacy :)
 
-![Google Classroom Preview 1](images/YMvYKHgDxj.png)
+![Google Classroom Preview 1](images/chrome_3hNDywlsy4.png)
 
 ![Google Classroom Preview 2](images/WPxlKLBBuy.png)
