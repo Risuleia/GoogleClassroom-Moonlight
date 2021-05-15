@@ -3,8 +3,9 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://classroom.google.com/*
 // @grant       none
-// @version     1.0
+// @version     1.3
 // @author      Risuleia
+// @icon        https://i.pinimg.com/originals/98/d3/a2/98d3a283f98cded8e639957e935bd373.png
 // @require     https://code.jquery.com/jquery-3.6.0.min.js
 // @description Custom theme for Google Classroom
 // ==/UserScript==
@@ -528,9 +529,14 @@ body {
 }
 .ypv4re {
   background: rgba(21,31,46,0.8);
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+.ypv4re:not(.pco8Kc) {
+  background: rgba(21,31,46,0.8);
   border-radius: 5px;
 }
-.j70YMc {
+.j70YMc:not(.pco8Kc) {
   background: rgba(21,31,46,0.8);
   border-radius: 5px;
 }
