@@ -528,22 +528,11 @@ body {
 }
 .ypv4re {
   background: rgba(21,31,46,0.8);
-  border-top-right-radius: 5px;
-  border-top-left-radius: 5px;
-}
-.ypv4re::after {
-  position: absolute;
-  content: '';
-  background: rgba(21,31,46,0.8);
-  top: 80px;
-  height: 15px;
-  width: 758px;
-  border: 1px solid transparent;
+  border-radius: 5px;
 }
 .j70YMc {
   background: rgba(21,31,46,0.8);
-  border-bottom-left-radius: 5px;
-  border-bottom-right-radius: 5px;
+  border-radius: 5px;
 }
 .gb_wb.gb_wb {
   background: rgba(21,31,46,0.8);
