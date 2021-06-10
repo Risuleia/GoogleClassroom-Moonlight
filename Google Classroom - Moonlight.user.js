@@ -7,6 +7,7 @@
 // @author      Risuleia
 // @icon        https://i.pinimg.com/originals/98/d3/a2/98d3a283f98cded8e639957e935bd373.png
 // @require     https://code.jquery.com/jquery-3.6.0.min.js
+// @license     MIT
 // @description Custom theme for Google Classroom
 // ==/UserScript==
 
