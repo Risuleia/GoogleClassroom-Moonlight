@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://classroom.google.com/*
 // @grant       none
-// @version     1.4
+// @version     1.5
 // @author      Risuleia
 // @icon        https://i.pinimg.com/originals/98/d3/a2/98d3a283f98cded8e639957e935bd373.png
 // @require     https://code.jquery.com/jquery-3.6.0.min.js
@@ -540,6 +540,12 @@ body {
 .j70YMc:not(.pco8Kc) {
   background: rgba(21,31,46,0.8);
   border-radius: 5px;
+}
+.vnnr5e:not(.RDPZE):hover .I9OJHe, .vnnr5e:not(.RDPZE):hover .CIy9F {
+  background-color: transparent !important;
+}
+.vnnr5e .CIy9F, .vnnr5e .I9OJHe {
+  background: none;
 }
 .gb_wb.gb_wb {
   background: rgba(21,31,46,0.8);
