@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
-/* background (change the URL inside quotes to add your own background*/
+
+/* background */
 body {
    background: rgba(21,31,46,0.8) url("https://i.imgur.com/LHj4Gil.jpg") center/100% fixed;
    background-repeat: no-repeat;
@@ -430,6 +431,11 @@ textarea {
 }
 .OlXwxf .SFCE1b:hover {
   background: rgba(21,31,46,0.8) !important;
+}
+.uArJ5e.UQuaGc.kCyAyd.l3F1ye.TNOizd.pOf0gc.UJYYgf:hover {
+  transform: scale(1.12);
+  transition: transform .45s ease-out;
+  z-index: 999;
 }
 .EmVfjc.qs41qe .xq3j6.ERcjC .X6jHbb {
   animation: spinner-left-spin 1333ms cubic-bezier(0.4,0.0,0.2,1) infinite both, loadingAnim 0.5s linear infinite both;
