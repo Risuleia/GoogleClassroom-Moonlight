@@ -200,6 +200,11 @@ body {
   color: #fff;
   font-size: 1rem;
 }
+/* textarea text */
+textarea {
+  font-family: Caveat !important;
+  font-size: 1.5em !important;
+}
 /* default announement text */
 .K6Ovqd {
   font-size: 1.5rem:
