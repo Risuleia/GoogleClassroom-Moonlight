@@ -90,9 +90,6 @@ body {
 .I7OXgf.ZEeHrd {
   background: rgba(21,31,46,0.8) !important;
 }
-.picker-dialog.XKSfm-Sx9Kwc {
-  background: rgba(21,31,46,0.8) !important;
-}
 .jfvobd {
   color: #ffffff !important;
 }
@@ -145,7 +142,22 @@ body {
 .aP3ZPb {
   background: linear-gradient(to right, #06abff 5%, #6600CC 97%) !important;
 }
+
+/* join/create class */
+.D3oBEe .qTs5Xc, .fyExH {
+  background: none;
+}
+[aria-checked="true"]>.rq8Mwb, [aria-checked="mixed"]>.rq8Mwb {
+  background: #ffffffc4;
+  border-radius: 5px;
+}
+
 /* font fix */
+/* material post dates */
+.tmMkWb {
+  font-family: Caveat;
+  font-size: 1.4em;
+}
 /* class details */
 .uTUgB, .csjh4b {
   font-family: Caveat;
@@ -182,7 +194,10 @@ textarea {
 }
 /* default announement text */
 .K6Ovqd {
-  font-size: 1.5rem:
+  font-size: 1.5rem !important;
+}
+.fidHdf {
+  margin: 0 !important;
 }
 /* semi-global text */
 .EZrbnd {
@@ -259,6 +274,90 @@ textarea {
 .gb_wb.gb_wb {
   color: #fff;
 }
+
+/* google drive attachment window */
+.yawtRb, .TNg8Ce, .ye3Lg, .Y7Vyje {
+  background: none !important;
+}
+.jfvobd {
+  color: #fff;
+}
+.GWh4Ge .kx3Hed {
+  color: #ffffffad;
+}
+.w7qIhd {
+  background-image: linear-gradient(to right, #06abff 5%, #6600CC 97%) !important;
+}
+.TNg8Ce .KKjvXb .kx3Hed {
+  background-image: linear-gradient(to right, #06abff 5%, #6600CC 97%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+.eizQhe-ObfsIf-mJRMzd-PFprWc, .eizQhe-ObfsIf-jXK9ad, {
+  background: rgba(21,31,46,0.8);
+}
+.ndfHFb-jyrRxf-haAclf .ndfHFb-XuHpsb-haAclf {
+  background: none;
+}
+.eizQhe-ObfsIf-jXK9ad {
+  color: #dadce073;
+}
+.pGOlGd .eizQhe-ObfsIf-mJRMzd:not(.eizQhe-ObfsIf-gk6SMd) .eizQhe-mJRMzd-V1ur5d-fmcmS {
+  color: #ffffffc4;
+}
+.iXlbzd, .ndfHFb-jyrRxf-tJHJj-r4nke, .ndfHFb-jyrRxf-haAclf .ndfHFb-rBfmuc-E2o6qc-V67aGc {
+  color: #ffffffc4;
+}
+.ndfHFb-jyrRxf-tJHJj {
+  background: none;
+}
+.eizQhe-jyrRxf-V1ur5d-r4nke>.eizQhe-mJRMzd-V1ur5d-fmcmS, .ndfHFb-vWsuo-s4QLm-haAclf > span {
+  color: #ffffffc4;
+}
+.ndfHFb-vWsuo-s4QLm-haAclf > span:nth-child(1) {
+  border-right: 1px solid #ffffffc4;
+  padding-right: 5px;
+}
+.pGOlGd .eizQhe-ObfsIf-mJRMzd-V1ur5d-haAclf, .TgyWAb-ObfsIf-haAclf {
+  border-top: 1px solid;
+  border-image: radial-gradient(circle, #dadce073 60%, transparent 95%);
+  border-image-slice: 9;
+}
+.picker-dialog.XKSfm-Sx9Kwc {
+  background: rgba(21,31,46,0.8) !important;
+}
+.yawtRb .Icoilb svg, .yawtRb .lVYtmc svg, .kZyufc svg {
+  fill: #ffffffc4;
+}
+.iXlbzd, .pGOlGd .ndfHFb-ObfsIf-haAclf .ndfHFb-rBfmuc-E2o6qc-V67aGc {
+  color: #ffffffc4;
+}
+.pGOlGd .ndfHFb-jyrRxf-haAclf .eizQhe-jyrRxf-V1ur5d-haAclf svg {
+  fill: #fff;
+}
+.DrCRke {
+  opacity .8;
+}
+.SI7vke ::-webkit-scrollbar-thumb {
+  background: linear-gradient(to right, #06abff 5%, #6600CC 97%);
+}
+.SI7vke ::-webkit-scrollbar-track {
+  background: rgba(21,31,46,0.8) !important;
+}
+.SI7vke ::-webkit-scrollbar {
+  width: 5px !important;
+}
+.eizQhe-ObfsIf-jXK9ad:hover {
+  transform: scale(1.12);
+  transition: transform .45s ease-out;
+  z-index: 999;
+}
+.ndfHFb-jyrRxf-oKdM2c:hover {
+  transform: scale(1.035);
+  transition: transform .45s ease-out;
+  z-index: 999;
+}
+
 /* Logo */
 .s7ovNb {
   visibility: hidden;
@@ -313,7 +412,7 @@ textarea {
   background: rgba(21,31,46,0.9) !important;
 }
 /* transitions */
-.qk0lee:hover, .GWZ7yf:hover, .Aopndd:hover, .d4Fe0d:hover, .v9TZ3c:hover {
+.GWZ7yf:hover, .Aopndd:hover, .d4Fe0d:hover, .v9TZ3c:hover {
   transform: scale(1.05) !important;
   transition: transform 0.2s linear !important;
 }
@@ -341,7 +440,8 @@ textarea {
 }
 /* transition fix */
 .Sgw65b {
-  overflow: visible;
+  overflow: visible !important;
+  max-width: 78.1%;
 }
 /* transparency */
 .gHz6xd {
@@ -351,7 +451,7 @@ textarea {
   background: rgba(21,31,46,0.8);
 }
 .d4Fe0d {
-  background: rgba(21,31,46,0.8);
+  background: rgba(21,31,46,0.8) !important;
 }
 .qk0lee {
   background: rgba(21,31,46,0.8);
@@ -370,7 +470,7 @@ textarea {
   opacity: 0.7;
 }
 .ETRkCe {
-  background: rgba(21,31,46,0.8);
+  background: rgba(21,31,46,0.8) !important;
 }
 .Xzp3fc {
   background: rgba(21,31,46,0.8);
