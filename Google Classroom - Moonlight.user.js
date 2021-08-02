@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://classroom.google.com/*
 // @grant       none
-// @version     1.5
+// @version     2.0
 // @author      Risuleia
 // @icon        https://i.pinimg.com/originals/98/d3/a2/98d3a283f98cded8e639957e935bd373.png
 // @require     https://code.jquery.com/jquery-3.6.0.min.js
