@@ -3,7 +3,7 @@ ___
 ### [Install directly with Violentmonkey/Tampermonkey](https://greasyfork.org/scripts/426414-google-classroom-moonlight/code/Google%20Classroom%20-%20Moonlight.user.js)
 ___
 
-Bored of the old, monotonous crap look of Google Classroom. Spice up your life of online classes with [Moonlight theme](https://github.com/Risuleia/GoogleClassroom-Moonlight/). A custom theme for [Google Classroom](https://classroom.google.com/). It has got a semi-transparent, glossy look, along with awesome animations and more stuff. The background image can also be changed by going to [Violentmonkey]() or [Tampermonkey]()/[Google Classroom - Moonlight]() and changing the URL inside quotes.
+Bored of the old, monotonous crap look of Google Classroom. Spice up your life of online classes with [Moonlight theme](https://github.com/Risuleia/GoogleClassroom-Moonlight/). A custom theme for [Google Classroom](https://classroom.google.com/). It has got a semi-transparent, glossy look, along with awesome animations and more stuff.
 
 ## Installation
 1. Install any Userscript manager.
