@@ -17,7 +17,7 @@
 
     var style = `
 /* css */
-@import url('https://github.com/Risuleia/GoogleClassroom-Moonlight/raw/main/Google%20Classroom%20-%20Moonlight.css');
+@import url('https://raw.githubusercontent.com/Risuleia/GoogleClassroom-Moonlight/main/Google%20Classroom%20-%20Moonlight.css');
 `;
 
     var elem = document.createElement('style');
