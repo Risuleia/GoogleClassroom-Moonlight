@@ -7,8 +7,8 @@ Bored of the old, monotonous crap look of Google Classroom. Spice up your life o
 
 ## Installation
 1. Install any Userscript manager.
-	* [Violentmonkey for Chrome](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag), [Firefox](https://addons.mozilla.org/firefox/addon/violentmonkey/), [Edge](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao) or [Opera](https://addons.opera.com/en/extensions/details/download-chrome-extension-9/)
-	* [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Firefox](https://addons.mozilla.org/firefox/addon/tampermonkey/), [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) or [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
+	* [Violentmonkey for Chrome](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag) or [Edge](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
+	* [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 2. Install [Google Classroom - Moonlight.user.js](https://github.com/Risuleia/GoogleClassroom-Moonlight/raw/main/Google%20Classroom%20-%20Moonlight.user.js).
 
 ## Preview
