@@ -9,7 +9,7 @@ Bored of the old, monotonous crap look of Google Classroom. Spice up your life o
 1. Install any Userscript manager.
 	* [Violentmonkey for Chrome](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag), [Firefox](https://addons.mozilla.org/firefox/addon/violentmonkey) or [Edge](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
 	* [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Firefox](https://addons.mozilla.org/firefox/addon/tampermonkey) or [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
-2. Install [Google Classroom - Moonlight.user.js](https://github.com/Risuleia/GoogleClassroom-Moonlight/raw/main/Google%20Classroom%20-%20Moonlight.user.js).
+2. Install [Google Classroom - Moonlight.user.js](https://greasyfork.org/scripts/426414-google-classroom-moonlight/code/Google%20Classroom%20-%20Moonlight.user.js).
 
 ## Preview
 Note: Some parts of the images have been blurred to respect privacy :)
